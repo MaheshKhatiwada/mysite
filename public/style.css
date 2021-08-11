@@ -1,0 +1,19 @@
+.intro{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(./images/mardi1.jpg) no-repeat center top;
+	background-size:cover;
+	display: table;
+	background-attachment: fixed;
+	width: 100%;
+	height: 92vh;
+	position: relative;
+	text-align: center;
+}
+
+.intro1,.intro2{
+	color:white;
+	text-transform: uppercase;
+}
+
+.intro-content{
+	margin-top: 15rem;
+}
